@@ -85,13 +85,6 @@ p {
     background-color: #FFFFFF;
     text-align: center;
   }
-  button {
-    padding: 15px;
-    background-color: #373738;
-    color: white;
-    font-size: 15px;
-    border-radius: 4px;
-  }
 .navbar a {
 position: relative;
 font-size: 20px;
@@ -185,4 +178,15 @@ footer {
     display: inline-block;
     padding: 0px 7px;
   }
+  footer a {
+        position: relative;
+        font-size: 20px;
+        color: #FAECEC;
+        font-weight: 500;
+        text-decoration: none;
+        margin-left: 40px;
+        justify-content: end;
+        align-content: end;
+}
+  
   
