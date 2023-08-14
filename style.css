@@ -140,6 +140,14 @@ margin-left: 40px;
 .navbar a:hover::before {
     width: 100%;
 }
+.workHeader {
+    font-size: 56px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
 .work {
     font-size: 38px;
     font-family: 'Roboto Slab', serif;
@@ -168,7 +176,7 @@ margin-left: 40px;
     font-size: 46px;
 }
 .wrapper {
-    margin: 150px auto;
+    margin: 0px auto;
     width: 70%;
     
 }
@@ -281,8 +289,9 @@ margin-left: 40px;
 display: flex;
 align-content: center;
 justify-content: center;
-font-size: 38px;
-margin: 45px;
+font-size: 56px;
+margin-top: 200px;
+margin-bottom: 100px;
 }
 .container{
     display: flex;
